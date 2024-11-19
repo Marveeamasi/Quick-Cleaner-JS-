@@ -1,0 +1,2 @@
+import { heavyFunction } from "./utils";
+heavyFunction();
