@@ -1,0 +1,3 @@
+const user = { name: "Alice" };
+const name = user.name ? user.name : "Guest";
+const age = user.age ? user.age : 18;
